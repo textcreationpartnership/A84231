@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Examples for kings, or, Rules for princes to governe by. Wherein is contained these ensuing particulars, 1. A discourse touching regall and politique government. 2 A prince must be just in his sentence. 3 What man is fit to be a governour, and to beare rule. 4 That a prince ought to be true of his word. 5 That a prince ought to be religious. 6 That a prince ought not to shed innocent bloud. 7 That a prince ought to be circumspect in giving credit to evill reports. 8 That a prince ought to beware of parasites. 9 What kind of men ought to be of the kings councell. 10 That it is dangerous for a prince to take aid of a stranger. 11 How a prince may get and keep the love of his subjects. 12 That a prince ought to be well advised how he begin a war.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84231</idno>
+            <idno type="STC">Wing E3734</idno>
+            <idno type="STC">Thomason E119_19</idno>
+            <idno type="STC">ESTC R8582</idno>
+            <idno type="EEBO-CITATION">99873348</idno>
+            <idno type="PROQUEST">99873348</idno>
+            <idno type="VID">125816</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84231)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125816)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E119[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Examples for kings, or, Rules for princes to governe by. Wherein is contained these ensuing particulars, 1. A discourse touching regall and politique government. 2 A prince must be just in his sentence. 3 What man is fit to be a governour, and to beare rule. 4 That a prince ought to be true of his word. 5 That a prince ought to be religious. 6 That a prince ought not to shed innocent bloud. 7 That a prince ought to be circumspect in giving credit to evill reports. 8 That a prince ought to beware of parasites. 9 What kind of men ought to be of the kings councell. 10 That it is dangerous for a prince to take aid of a stranger. 11 How a prince may get and keep the love of his subjects. 12 That a prince ought to be well advised how he begin a war.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Hutton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Oct: 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kings and rulers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125816:1" rendition="simple:additions"/>
+            <p>
+               <hi>EXAMPLES</hi> FOR KINGS, <hi>OR,</hi> Rules for Princes to governe by. <hi>Wherein is contained theſe enſuing particulars,</hi>
+               <list>
+                  <item>1 A Diſcourſe touching Regall and Politique Go<g ref="char:EOLhyphen"/>vernment.</item>
+                  <item>2 A Prince muſt be juſt in his ſentence.</item>
+                  <item>3 What Man is fit to be a Governour, and to beare Rule.</item>
+                  <item>4 That a Prince ought to be true of his word.</item>
+                  <item>5 That a Prince ought to be religious.</item>
+                  <item>6 That a Prince ought not to ſhed innocent bloud.</item>
+                  <item>7 That a Prince ought to be circumſpect in giving cre<g ref="char:EOLhyphen"/>dit to evill reports.</item>
+                  <item>8 That a Prince ought to beware of Paraſites.</item>
+                  <item>9 What kind of men ought to be of the Kings Coun<g ref="char:EOLhyphen"/>cell.</item>
+                  <item>10 That it is dangerous for a Prince to take aid of a ſtranger.</item>
+                  <item>11 How a Prince may get and keep the love of his Subjects.</item>
+                  <item>12 That a Prince ought to be well adviſed how he be<g ref="char:EOLhyphen"/>gin a War.</item>
+               </list>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Hutton.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125816:2"/>
+            <head>Examples for Princes.</head>
+            <p>AS in Naturall things, the Head being cut off, the reſt can<g ref="char:EOLhyphen"/>not be called a Body; no more can in politique things, a Multitude, or Communalty, without a Head, be incor<g ref="char:EOLhyphen"/>porate: Therefore a people deſiring to live in ſociety, and willing to erect either a Politique Body or a Kingdome, muſt of neceſſity chuſe one to govern that Body, who in a Kingdome of <hi>Regendo,</hi> is called <hi>Rex,</hi> and ſo by the People is eſtabliſhed a Kingdome: which Government is abſolutely the beſt. And as the head of the Phyſicall body cannot change the reyns and ſinews, thereof, nor deny the members of their proper ſtrength and nece<g ref="char:EOLhyphen"/>ſary nutriture: no more can a king who is head of the polliticke Body, alter or change the Laws of that Body, or take from the people their goods or Subſtance againſt their willes; for a king is choſen (and bound) to maintain the Laws of His Subiects, and to defend their Bodies and goods, So <hi>Brute</hi> arriving in this Iland, with His <hi>Trojans,</hi> erected here a regall and polliticke goverment, which hath for the moſt part continued ever ſince: for though we have had many changes, as firſt the <hi>Romans,</hi> then the <hi>Saxons,</hi> then the <hi>Danes,</hi> and Laſtly the <hi>Normans,</hi> yet in the time of all theſe na<g ref="char:EOLhyphen"/>tions, and during their Raignes, the kingdom was for the moſt part governed in the ſame manner as it is now, <hi>Plutarch</hi> faith, that all at firſt that governed were called Tyrants, but afterward the good governours called Kings. For though a man by force do ſub<g ref="char:EOLhyphen"/>due Cities &amp; Countreys, yet he ought to rule according to reaſon; and if he know God, according to the Law of God: but when he is admitted King by the people, and hath his power from them, He may not Subiect the people to any other power, yet He hath a great and large Prerogative, which He may uſe at His pleaſure.</p>
+            <p>And here I thinke it not a miſſe to ſet down ſome few Lawes and Cuſtomes of other Common-wealths, whereby their good governement may appeare, they not being Chriſtians, <hi>Prolmaeus</hi>
+               <pb facs="tcp:125816:2"/>King of Egypt feaſted one day ſeven Ambaſſadours, which at his requeſt ſhewed unto him three of their principall Laws and cuſ<g ref="char:EOLhyphen"/>tomes. And firſt the Ambaſſadour of <hi>Rome</hi> ſaid, we have the tem<g ref="char:EOLhyphen"/>ples in great Reverence, we are very obedient to our governours, and we doe puniſh wicked men ſeverely: The <hi>Carthagenian</hi> Am<g ref="char:EOLhyphen"/>baſſadour ſaid our Noble men never left fighting, the Atificers ne<g ref="char:EOLhyphen"/>ver left labouring, nor the Phyloſophers never left teaching, The <hi>Cicilian</hi> ſaid, in our Common-wealth juſtice is exactly kept; marchandice is excerciſed with truth, and all men account them<g ref="char:EOLhyphen"/>ſelves equall: The <hi>Rodians</hi> ſaid, that at Rodes, old men are honeſt, young men ſhamefaſt, and women uſe very few words: The <hi>A<g ref="char:EOLhyphen"/>thenians</hi> ſaid, in our common-wealth rich men are not ſuffered to be divided into factions, nor poor men to be idle, nor the gover<g ref="char:EOLhyphen"/>nours to be ignorant: The <hi>Lacedemoninas</hi> ſaid, in <hi>Sparta</hi> envye reigneth not, for all men are equall, nor covetouſneſſe, for all goods are common, nor ſloth, for all men labour: in our common<g ref="char:EOLhyphen"/>wealth ſaid the Ambaſſadour of the <hi>Siconians,</hi> voyages are not per<g ref="char:EOLhyphen"/>mitted, becauſe they ſhould not bring home new factions: Phy<g ref="char:EOLhyphen"/>ſitians are not ſuffered, leſt they ſhould kill the ſound: nor Lawyers to take upon them the defence of cauſes and ſuites. And to theſe may be added <hi>Anatharſis</hi> letter to the Athenians, wherein He councelleth them to chuſe a king that is juſt in his ſentence, true in His word, conſtant in his act, ſecret and liberall, for theſe be the principall morrall vertues moſt neceſſary in a prince.</p>
+            <p>A prince ought to be juſt in His ſentence according to the words of <hi>Solomon Wiſd.</hi> 1. ſaying,<note place="margin">A Prince ought to be juſt in his ſen<g ref="char:EOLhyphen"/>ſure. Who fit<g ref="char:EOLhyphen"/>teſt to go<g ref="char:EOLhyphen"/>verne.</note> 
+               <hi>love juſtice you that judge the Earth,</hi> for a juſt king doth advance his country: and the king that judgeth the poor rightly his throne ſhall be eſtabliſhed forever.</p>
+            <p>Now to ſhew what manner of man is fitteſt to govern. I read in <hi>Livie,</hi> that men borne in armes, great in deeds and rude in elloquence ought to be choſen Councelors, and that men of quick ſpirits, ſharpe wits, learnd in the Law, and eloquence; ſhould be for the city for a prince ought to be a martial man ſtout &amp; couragious to defend his ſubjects, and offend his enemies, not to be curious to Speak eloquently, but to deliver his minde plainly, and wiſely, it being more neceſſary for a prince to doe well, then Speak well, <hi>Paucimas</hi> ſaith, thoſe are to be hated, who in their acts are fools and in their words Phyloſophers: for wiſe words are not commendable, if the deeds be not anſwerable, they therefore
+<pb facs="tcp:125816:3"/>ſaith <hi>Plato.</hi> that will have glory in this life, and attain to glory af<g ref="char:EOLhyphen"/>ter death, and be beloved of many and feared of all, let him be ver<g ref="char:EOLhyphen"/>tuous in good works, and deceive no man, with vain words. All good and worthy Princes, have Laboured to attain to this wiſdom and to exact juſtice moſt exactly in ſo much that ſome have not ſpared their own children ſo ſacred a thing they ever held juſtice to be: as for example. <hi>Brutus,</hi> who underſtanding that his two ſons were of the conſpiracy for <hi>Tarquinius ſuperbus. Alexander Magnus</hi> was ſo far from being tranſported from Juſtice, as when any man made complaint to him of another, he ſtopped alwayes one eare, ſaying, he muſt keepe that for the party accuſed. King <hi>Edgar</hi> of England had likewiſe that care to doe juſtice, as in win<g ref="char:EOLhyphen"/>ter time he would ride up and downe the Countrey, and make enquiry of the miſdemeanours of his Officers and Governours, and puniſhed them ſeverely that offended the Law. And as the followers of Juſtice ſhall not onely be glorious on earth, but live in eternall glory; ſo the Princes that miniſter injuſtice, and doe not judge rightly, ſhall reap infamy on earth, and undergoe the high diſpleaſure of God; for the royall Prophet ſaith, that <hi>God is terrible to the Kings of the earth, Pſal.</hi> 75. which doth very well appeare by the ſtrange puniſhments which he oftentimes inflicts upon them, as upon <hi>Pharaoh, Nebuchadnezzar, Ozias, Ioram, Anti<g ref="char:EOLhyphen"/>ochus, Heroa, Mempriſius</hi> King of Britaine, who was devoured by Wolves, <hi>Seldred</hi> a <hi>Saxon</hi> King of <hi>England,</hi> who was killed by the Divell as he was banqueting with his Nobillity. And many more for their injuſtice have beene very ſtrangely puniſhed, and oftimes loſt their Kingdomes, as appeareth by <hi>Ecle.</hi> Chap. 11. being transferred from Nation to Nation for injuſtice and injuries, ther<g ref="char:EOLhyphen"/>fore it behooveth a Prince to take ſpeciall care hereunto.</p>
+            <p>Next it is requiſite that a Prince be true of his word,<note place="margin">A Prince to be true of his word.</note> both to<g ref="char:EOLhyphen"/>wards God, and man, for <hi>Soloman,</hi> ſaith, that <hi>a lying lip doth not become a Prince, Pro.</hi> 17. many examples might be given touch<g ref="char:EOLhyphen"/>ing ſeverall Princes who have beene ſeverally puniſhed for breach of faith: As for example, <hi>Charles</hi> the 70. King of France, when he was <hi>Dolphin,</hi> made <hi>Iohn</hi> Duke of Burgundy beleeve that hee would make peace with him, whereupon they met at a place ap<g ref="char:EOLhyphen"/>pointed, where <hi>Charles</hi> cauſed the Duke to bee preſently killed, but <hi>Charles</hi> after this was forced to aske <hi>Phillip</hi> forgiveneſſe open<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:125816:3"/>by his Embaſſadors. <hi>Charles</hi> the laſt Duke of Burgundy having given ſafe conduct to the E. of St. <hi>Paul</hi> Conſtable of France, took him priſoner, and delivered him to the French King, who put him to death for his treachery, and ſet the ſaid E. free. Thus you may ſee how honourable it is to keepe their word, and what they deſerve that falcifie their faith; for, a faithleſſe Prince is beloved of none, but hated of all, ſuſpected of his friends, not truſted of his enemies, and forſaken of all men in his greateſt neceſſity.</p>
+            <p>Alſo a Prince ought to be religious, for <hi>Solomon</hi> ſaith,<note place="margin">A Prince ought to be religi<g ref="char:EOLhyphen"/>ous.</note> 
+               <hi>God pre<g ref="char:EOLhyphen"/>ſerveth the ſtate of the righteous and is a child to them that walke up<g ref="char:EOLhyphen"/>rightly, Pro. Cap.</hi> 2. and in <hi>Deut</hi> 17. a King is commanded after he be placed in his Kingdome to read the book of Deuteronomy, that he may learne to feare God and to Keepe his words, for ſo doing a Prince ſhall proſper.</p>
+            <p>It is alſo expedient that a Prince have ſpeciall care that he put not his hand in innocent blood, neither by tyranny, malice,<note place="margin">A Prince ought not to ſhed in<g ref="char:EOLhyphen"/>nocent blood.</note> am<g ref="char:EOLhyphen"/>bition, policy, or falſe reports or imformations, for to be a Tyrant is odious to God and man, and to bring himſelfe to an evill end. As for example, K. <hi>Iohn</hi> of England murthered his Nephew, and in the end was murthered himſelfe. <hi>Richard</hi> Duke of Gloceſter murthered his two Nephewes, Sons to <hi>Ed,</hi> 4. to make himſelfe King, and after was ſlaine in Boſworth by <hi>Hen.</hi> 7. <hi>for blood re<g ref="char:EOLhyphen"/>quires blood,</hi> and let a bloody Prince never looke for a better end.</p>
+            <p>But many Princes have beene mightily abuſed by falſe reports and rong informations,<note place="margin">A Prince to be cir<g ref="char:EOLhyphen"/>cumſpect in giving credit to reports.</note> David therefore prayed God to deliver him <hi>from wicked lips and a lying tongue, Pſal.</hi> 119. and in <hi>Eccleſ.</hi> 6. it is ſaid, <hi>Separate thy ſelfe from thy enemies, and beware even of thy friends,</hi> for where a man doth truſt the moſt there a man may be ſooneſt deceived, as was <hi>Francis</hi> Duke of Britain who put his brother <hi>Giles</hi> to death upon the falſe report of thoſe who went meſſengers betwene them &amp; after put them to death alſo, there<g ref="char:EOLhyphen"/>fore a Prince ſhould duly examine every report whether it be true or not, before he give credit thereunto, and eſpecially if it con<g ref="char:EOLhyphen"/>cerne life, for innocent blood doth cry to God for revenge, as ap<g ref="char:EOLhyphen"/>peareth in the Apoc. 6. ſaying, <hi>how long Lord holy and juſt judgeſt thou not, and revengeſt not our blood upon them that dwell upon the earth.</hi>
+            </p>
+            <pb facs="tcp:125816:4"/>
+            <p>I have read that <hi>Appalles</hi> drew the picture of a king (which he ſent to <hi>Prolmaeus</hi> ſet in a chaire of ſtate with great hands,<note place="margin">A Prince to beware of Para<g ref="char:EOLhyphen"/>ſites.</note> great eares, and beſides him ignorance, ſuſpition a taleteller, and flat<g ref="char:EOLhyphen"/>tery: theſe will labour to be about a Pr. therefore a Prince muſt la<g ref="char:EOLhyphen"/>bour to avoid them. It is therefore a happy thing for Princes to have thoſe about them that will not flatter but tell the truth. If therefore the Emperour <hi>Gordean</hi> ſaid, that Prince was very unfor<g ref="char:EOLhyphen"/>tunate who hath not about him thoſe that may plainly tell him the truth, for a King knoweth not what paſſeth, but by relation of thoſe who converſe with him. <hi>Theopompus</hi> being asked how a Prince might preſerve his Kingdome, ſaid by giving his friends liberty to ſpeake the truth, and by keeping his Subjects from op<g ref="char:EOLhyphen"/>preſſion.</p>
+            <p>A Prince ſhould be very carefull in making choice of his coun<g ref="char:EOLhyphen"/>cellors,<note place="margin">What kind of perſons are to be of a Princes counſail.</note> for <hi>Plato</hi> ſaith, that many Princes are undone for want of faithfull friends and ſervants to councell them, therefore <hi>Alfred</hi> K. of England ſought out the wiſeſt &amp; moſt learnedſt men to bee of his Counſail. The Emperour <hi>Conſtantius</hi> to make proofe of his friends, made ſhew to abandon Chriſtian Religion, and to turne to Idolatry, he was inſtantly applauded by a great number whom preſently he baniſhed the Country, for a Prince ſhall ne<g ref="char:EOLhyphen"/>ver want followers, I wiſh that our gracious Soveraine would make this his preſident, but to my former diſcourſe. Councellors ſaith <hi>Iulius Ceſar</hi> in one of his Orations to the Senate, ſhould not be lead by malice, friendſhip, anger nor mercy, and if they concur in one lawfull opinion, though the Prince be oppoſite yet it is fit<g ref="char:EOLhyphen"/>ting he ſhould yeeld to them, for ſo did the Emperour <hi>Marcus Antoninus</hi> ſaying, it muſt be as you will, for it is greater reaſon that I being one ſhould follow your opinion, then you being ma<g ref="char:EOLhyphen"/>ny; wiſe, and learned ſhould yeeld to mine.</p>
+            <p>If a Prince take aid of a ſtranger ſtronger then himſelfe,<note place="margin">Dange<g ref="char:EOLhyphen"/>rous for a Prince to take aid of a ſtranger.</note> he may thereby endanger his State, as for example <hi>Heruls, Goths,</hi> and <hi>Lumberds</hi> came into Italy for ſuccor became Lords thereof, ſo did they of Franconia, with their King <hi>Pl</hi> by <hi>Pharamon</hi> the Galls, now France, and the <hi>Saxons,</hi> did the like to England.</p>
+         </div>
+         <div type="text">
+            <pb facs="tcp:125816:4"/>
+            <head>How to get and keepe the love of his SVBJECTS.</head>
+            <p>A Prince to the end he may be ſtrong at home, and neede no forraine Forces, ſhould alwayes expect his own ſubiects, (eſpecially men of worth and ſervice) as well in peace as war, that he may win the love and hearts of his Subjects, the meaneſt whereof may doe him ſervice, in ſome Kind at one time or other: For <hi>Seneca</hi> ſaith, the onely inexpugnable force of a P. is the love of his ſubjects; <hi>Antonius Pius</hi> would ſay that he had rather preſerve one of his Subjects, then kill 1000. of his enemie; and <hi>Pythagonas</hi> affirmeth that Subjects are to the Prince as the winde to the fire, for the ſtronger the wind the greater the fire, ſo the richer the Subjects be, the ſtronger the Priece, but where Matchovells Principles take effect, there the Subjects muſt be made-poore, by continuall ſubſedies, exactions and impoſitions, that the people may alwayes beekept vnder as ſlaves, and feare their Prince, which courſe extinguiſheth the love of the people towards the P. and ingendereth hatred (the actions of the Clergy, evill Coun<g ref="char:EOLhyphen"/>ſellors of the State, monopolies and other, and other machavilian practiſes of ſome great ones in authority, has almoſt procured the ſame effect in England) <hi>Phillip Commines</hi> greatly blameth ſuch Princes, as ſeeke not to compound and end diſcords and quarrels, a<g ref="char:EOLhyphen"/>mongſt their greateſt ſubjects, but rather nouriſh the one part, wherein they do but ſet their own houſe on fire, as did the wife of <hi>Henry</hi> the 6. taking part with the Duke of Somerſet, againſt the Earle of Warwick, which cauſed the war betwixt York and Lancaſter. <hi>Auguſtas</hi> the Emperour made a Law concerning ex<g ref="char:EOLhyphen"/>actions, which hee called <hi>Auguſta,</hi> that no payment ſhould be exacted of the people, but for the profit of the Common-wealth. And when <hi>Marcus Antoninus</hi> laid a double tax upon the people, they anſwered, that if he would have two taxes in one yeare, he muſt give them two ſummers, two harveſts, and two vinta<g ref="char:EOLhyphen"/>ges, for the people cannot endure to be overcharged, if they be, great inconvenience may grow thereby, (our later times give ap<g ref="char:EOLhyphen"/>parent teſtimonies of the truth of this particular.) A Prince there<g ref="char:EOLhyphen"/>fore ſhould love and cheriſh his Subjects, but not oppreſſe them;
+<pb facs="tcp:125816:5"/>for <hi>Tiberius Nero,</hi> when ſome perſwaded him to take great tri<g ref="char:EOLhyphen"/>butes of the Provinces, ſaid, that a good Shepheard ſhould ſheare his ſheep, but not devoure them; and that State (ſaith <hi>Thales</hi>) is beſt ordered, which hath in it neither too wealthy nor too poor Citizens.</p>
+            <p>It is not for a Prince to make war upon every ſinal occaſion,<note place="margin">A Prince ought to bewell ad<g ref="char:EOLhyphen"/>viſed how he beginn Warre.</note> but to be ſure the cauſe be good and juſt, which then will bring honour to his perſon, ſafety to his ſoule, and encouragement to all his ſouldiers: yet according to the ſaying of <hi>Octavus Caeſar,</hi> nei<g ref="char:EOLhyphen"/>ther Battaile nor War is to be undertaken, unleſſe there may be e<g ref="char:EOLhyphen"/>vidently ſeene more hope of gaine, then feare of dammage; but above all, a religious Peace is to be embraced by a Prince, and ſo to be offered to his enemie: for <hi>Bleſſed is the Peace-maker, for he ſhall inberit the kingdome of heaven:</hi> which that we may all doe, let us endeavour to purchaſe a peace by our timely repentance, and hearty prayers. When the Iſraelites had ſinned, and that God had reſolved to deſtroy them, <hi>Moſes</hi> roſe up, and by his prayers became a Mediator betwixt God and them, ſo that Gods Juſtice was converted to Mercie. Is there not in all this ſpacious King<g ref="char:EOLhyphen"/>dome one Religious <hi>Moſes</hi> to ſtand betwixt Gods Juſtice and our ſins, by his prayers to purchaſe a pardon, and remove this threat<g ref="char:EOLhyphen"/>ning miſchiefe which hangs over our heads? O that God would put it into the hearts both of Prince and People, to joyne with one heart and one voice, and cry unto the Lord, for who knowes what an effect ſuch an union might produce? who knows whe<g ref="char:EOLhyphen"/>ther the Lord will repent him of his wrath, and turn this deſtru<g ref="char:EOLhyphen"/>ction from us?</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:125816:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
